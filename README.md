@@ -1,4 +1,4 @@
-## E aí, Eu sou o Weked, Desenvolvedor Web 😁
+## E aí, Eu sou o Weked, e sou Desenvolvedor 😁
 
  <div>
    <a href="https://github.com/Weked">
